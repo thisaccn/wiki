@@ -1,0 +1,2 @@
+# wiki
+Shiyun Works Wiki
