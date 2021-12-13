@@ -1,8 +1,11 @@
 欢迎您来到 红石云维基 Shiyun Wiki～ 本 Wiki 正在建设中，欢迎各位帮助完善。👏
 
 ### 当前主服务器「红石云工场」（2015年起）
-服务端版本为：`PaperMC 1.17.1 Online Mode + Offline Mode`
+
+服务端版本为：`Paper 1.17.1 Online Mode + Offline Mode`
+
 （针对Log4j相关问题已开展修复并完成）
+
 为保证安全请务必使用原版 Minecraft 客户端进入。
 
 欢迎[参与贡献](wiki/contribute.md)，让我们的维基更加完善。
