@@ -1,5 +1,5 @@
 - 起步
-  - [基本规则 :four_leaf_clover:](wiki/cons.md)
+  - [基本规则](wiki/cons.md)
 - 社区
   - [玩家群组](wiki/groups.md)
 - 工场
