@@ -1,12 +1,12 @@
 - 起步
-  - [基本规则](wiki/wiki/cons.md)
+  - [基本规则](wiki/cons.md)
 - 社区
-  - [玩家群组](wiki/wiki/groups.md)
+  - [玩家群组](wiki/groups.md)
 - 工场
-  - [规划管理](wiki/wiki/realms.md)
-  - [管理方法](wiki/wiki/admin.md)
-  - [权限规则](wiki/wiki/permissions.md)
-  - [规划总览](wiki/works/realms.md)
+  - [规划管理](wiki/realms.md)
+  - [管理方法](wiki/admin.md)
+  - [权限规则](wiki/permissions.md)
+  - [规划总览](works/realms.md)
 - 实用帮助
 - 参与编辑
-  - [贡献方式](wiki/wiki/contribute.md)
+  - [贡献方式](wiki/contribute.md)
