@@ -22,13 +22,7 @@ play.shiyun.work
 
 ### 卫星地图
 
-服务器卫星地图地址：
-
-```
-http://play.shiyun.work:8123
-```
-
-请不要使用 HTTPS。
+“由于技术原因”，服务器卫星地图暂时停用。恢复时间另行通知。
 
 ### 联系
 
@@ -38,5 +32,12 @@ http://play.shiyun.work:8123
 - 我服务器、管理团队、社区不会以任何理由向任何人索要金钱、物品或任何敏感信息。
 - 我服务器秉承非盈利宗旨，依靠社区的力量持续运行。
 
-* 管理组联系方式`ops@shiyun.work`
+* 管理组联系方式
+  * 全体邮件列表`ops@shiyun.work`
+  * 运维监督`sr@shiyun.work`
+  * 管理监督`admin@shiyun.work`
+  * 公共监督`pr@shiyun.work`
+  * 建筑监督`arch@shiyun.work`
+  * 超监督/总监督邮件列表`kantoku@shiyun.work`
+  * 总监修`supervisor@shiyun.work`
 * 加入[玩家群组](wiki/groups.md)
