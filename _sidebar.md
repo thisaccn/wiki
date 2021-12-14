@@ -1,5 +1,6 @@
 - 起步
   - [基本规则](wiki/cons.md)
+  - [登录相关](wiki/login.md)
 - 社区
   - [玩家群组](wiki/groups.md)
 - 工场
