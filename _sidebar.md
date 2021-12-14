@@ -9,5 +9,6 @@
   - [权限规则](wiki/permissions.md)
   - [规划总览](works/realms.md)
 - 实用帮助
+  - [实用传送点](tutorial/warp.md)
 - 参与编辑
   - [贡献方式](wiki/contribute.md)
