@@ -1,5 +1,9 @@
 欢迎您来到 红石云维基 Shiyun Wiki～ 本 Wiki 正在建设中，欢迎各位帮助完善。👏
 
+欢迎[参与贡献](wiki/contribute.md)，让我们的维基更加完善。
+
+（[登录相关](wiki/login.md)|[白名单相关](wiki/whitelist.md)）
+
 ### 当前主服务器「红石云工场」（2015年起）
 
 服务端版本为：`Paper 1.17.1 Online Mode + Offline Mode`
@@ -8,7 +12,7 @@
 
 为保证安全请务必使用原版 Minecraft 客户端进入。
 
-欢迎[参与贡献](wiki/contribute.md)，让我们的维基更加完善。
+红石云工场是一个**启用白名单**的非公开服务器。
 
 ### 加入游戏
 
