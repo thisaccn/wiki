@@ -45,3 +45,11 @@ play.shiyun.work
   * 超监督/总监督邮件列表`kantoku@shiyun.work`
   * 总监修`supervisor@shiyun.work`
 * 加入[玩家群组](wiki/groups.md)
+
+### 声明
+
+服务器内出现的所有内容均为游戏内容，纯属虚构，不与现实世界任何人、组织、事件存在任何联系。
+
+本 Wiki 中页面不代表本服务器立场，仅代表编辑者立场。
+
+Wiki 管理团队会尽力审核每一条 Pull Request 所包含的内容。
